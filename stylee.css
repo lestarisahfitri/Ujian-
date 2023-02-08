@@ -1,0 +1,15 @@
+body{
+    height: 100vh;
+    background-color: #243072;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   color: #fafafa;
+}
+    ul {  
+                list-style-type: none;  
+            }
+            a:link { 
+                text-decoration: none; 
+            }
+           
